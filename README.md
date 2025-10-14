@@ -6,6 +6,7 @@ se ele é maior de idade ou não.
 
 3. Peça para o usuário digitar um mês do ano, de forma numérica, e mostre a ele
 o mês digitado escrito por extenso (Ex: 02 = fevereiro).
+
 4. Escreva um programa que leia três números inteiros e os imprima em ordem
 crescente
 
