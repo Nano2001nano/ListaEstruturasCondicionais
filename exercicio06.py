@@ -1,5 +1,5 @@
-num1 = int(input("\nDigite o primeiro número: "))
-num2 = int(input("Digite o segundo número: "))
+num1 = float(input("\nDigite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
 operacao = input("Digite a operação desejada:\nM para multiplicação\nD para divisão\n\nResposta: ")
 #entrada de dados
 

@@ -1,4 +1,4 @@
-escolha = input("Quantos títulos o piloto de fórmula 1 Lews Hamilton tem?\nDigite 1 para 5 títulos\nDigite 2 para 8 títulos\nDigite 3 para 7 títulos\nResposta: ")
+escolha = input("Quantos títulos o piloto de fórmula 1 Lewis Hamilton tem?\nDigite 1 para 5 títulos\nDigite 2 para 8 títulos\nDigite 3 para 7 títulos\nResposta: ")
 #entrada de dados
 
 if escolha == "3":
